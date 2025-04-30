@@ -11,8 +11,6 @@ Welcome to **SoneMC**'s official GitHub! I'm developing Minecraft plugins primar
 Here are some of the current projects:
 
 - **[Website](https://sonemc.pages.dev)** – The main website where you can find **everything** about **SoneMC's plugins**.
-- **[Tool - TextEditor](https://sonemc.pages.dev/tools/texteditor/)** – A handy tool to help you with your server’s MOTD and messages using color codes (`&`).
-- **More?** – Yep! But soon...
 
 Feel free to explore!
 
